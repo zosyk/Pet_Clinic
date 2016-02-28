@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cpw:war">
+    <output-path>$PROJECT_DIR$/clinic-pet-web[cpw]/target</output-path>
+    <root id="archive" name="cpw-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cpw:war exploded" />
+    </root>
+  </artifact>
+</component>
